@@ -1,2 +1,2 @@
-# Selected-self-study-and-independent-study-assignments
-Repository containing five self-study / independent-study assignments in group theory, topology and differential geometry, quantum field theory
+This repository contains five self-study and independent-study assignments covering group theory, topology, and quantum field theory.
+The material reflects independent work completed alongside advanced coursework.
