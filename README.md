@@ -1,7 +1,7 @@
 # Selected Self-Study and Independent-Study Assignments
 ## Note to the Reader
 
-The material in this repository represents work completed as part of self-study and informal coursework. While care has been taken to ensure correctness and clarity, these notes reflect my learning process rather than finalized or polished lecture notes.
+The material in this repository represents work completed as part of self-study and informal coursework. While care has been taken to ensure correctness and clarity, these notes reflect my learning process.
 
  The problems included here are a selected subset of those I attempted and was able to work through and understand; many other problems in the corresponding problem sets were beyond my level at the time.
 This repository contains five selected assignments completed as part of my preparation in mathematics and theoretical physics.  
